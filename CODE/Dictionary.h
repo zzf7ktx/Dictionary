@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
+// Tam
 #include "WORD.h"
 
 using namespace std;
